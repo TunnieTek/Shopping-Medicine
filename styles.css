@@ -53,3 +53,38 @@ header a:hover {
     padding: 3%;
     margin: 1%;
 }
+
+
+/* SIGN IN */
+
+
+/* ============================================================================================= */
+
+.login {
+    padding: 5%;
+}
+
+.login .container {
+    width: 100%;
+    height: 520px;
+    background-image: url("images/login.png");
+}
+
+.login .col-xl-4 {
+    padding: 5%;
+    /* margin-top: 1%; */
+    margin-left: 5%;
+}
+
+.login .form-group {
+    margin-bottom: 10%;
+}
+
+.form-group input {
+    border: none;
+    border-radius: 0px;
+    border-bottom: 1px solid #20212a;
+}
+
+
+/* =============================================================================================== */
