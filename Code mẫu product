@@ -1,0 +1,41 @@
+<div class="container">
+    <div class="row">
+        <div class="col-xl-12"></div>
+    </div>
+    <div class="row">
+        <div class="col-xl-2"></div>
+        <div class="col-xl-10">
+            <div class="single-product">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xl-3">
+                            <p>Tên sản phẩm</p>
+                            <img src="#" alt="">
+                            <p>Gía</p>
+                            <a href="#">MUA</a>
+                        </div>
+                        <div class="col-xl-3">
+                            <p>Tên sản phẩm</p>
+                            <img src="#" alt="">
+                            <p>Gía</p>
+                            <a href="#">MUA</a>
+                        </div>
+                        <div class="col-xl-3">
+                            <p>Tên sản phẩm</p>
+                            <img src="#" alt="">
+                            <p>Gía</p>
+                            <a href="#">MUA</a>
+                        </div>
+                        <div class="col-xl-3">
+                            <p>Tên sản phẩm</p>
+                            <img src="#" alt="">
+                            <p>Gía</p>
+                            <a href="#">MUA</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
